@@ -32,4 +32,8 @@
       <Folder Include="Controllers\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="appsettings.json" />
+    </ItemGroup>
+
 </Project>
