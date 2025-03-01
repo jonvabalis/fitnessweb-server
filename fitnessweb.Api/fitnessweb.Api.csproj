@@ -11,4 +11,10 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\fitnessweb.Core\fitnessweb.Core.csproj" />
+      <ProjectReference Include="..\fitnessweb.Domain\fitnessweb.Domain.csproj" />
+      <ProjectReference Include="..\fitnessweb.Infrastructure\fitnessweb.Infrastructure.csproj" />
+    </ItemGroup>
+
 </Project>
