@@ -8,10 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Commands\" />
-      <Folder Include="Handlers\" />
       <Folder Include="Properties\" />
-      <Folder Include="Queries\" />
     </ItemGroup>
 
     <ItemGroup>
