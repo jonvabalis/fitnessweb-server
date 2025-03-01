@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Folder Include="Entities\" />
       <Folder Include="Properties\" />
     </ItemGroup>
 
