@@ -14,6 +14,7 @@ public class CreateUserCommandHandler(FitnessWebDbContext fitnessDbContext) : IR
             LastName = request.LastName,
             Email = request.Email,
             PhoneNumber = request.PhoneNumber,
+            Password = request.Password,
             Birthday = request.Birthday,
         };
 
